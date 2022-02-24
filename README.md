@@ -2,4 +2,4 @@
 Blogging website using Bootstrap
 
 
-[Link](blog-page-rqk.netlify.app)
+[Link](https://blog-page-rqk.netlify.app/)
